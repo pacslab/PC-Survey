@@ -68,11 +68,11 @@ group. The situation is similar for the age groups of 50-59 years old,
 and 60 years and older.
 
 <p align="center">
-<img src="./img/groupbyEducation.png" width="500"/>
+<img src="./img/GroupbyEducation.png" width="500"/>
 </p>
 
 <p align="center">
-<img src="./img/groupbyAge.png" width="500"/>
+<img src="./img/GroupbyAge.png" width="500"/>
 </p>
 
 
