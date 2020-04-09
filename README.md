@@ -6,8 +6,9 @@ Every year, hundreds of million units of personal computers are  manufactured wo
 
 In 2005, Domingues et al. [@domingues2005resource] studied the resource usage of Windows 10 machines from classroom laboratories. The results show an average CPU idleness of 97.9\%. Although this study shows much wasted computational capacity, it focuses only on laboratory computers, and it was conducted about 15 years ago. Therefore, to provide stronger support for the idleness assumption, we have conducted a survey and asked participants to report their computer's CPU utilization and unused memory when running their regular programs. 
 
-
-![Age](img/Age.png){width=20}
+<p align="center">
+<img src="./img/Age.png" width="500"/>
+</p>
 
 <!-- \centering
 ![Gender](figures/Gender.pdf){width="\columnwidth"}
