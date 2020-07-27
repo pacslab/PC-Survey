@@ -102,3 +102,23 @@ that personal computers are highly underutilized.
 ## References
 <a id="1">[1]</a> 
 Domingues,  P.  Marques,  and  L.  Silva,  “Resource  usage  of  windows computer  laboratories,”  in 2005 International Conference on Parallel Processing Workshops (ICPPW’05), pp. 469–476, IEEE, 2005.
+
+
+## Citation
+
+You can use the following bibtex entry for citing our work:
+
+``` 
+@article{ghaemi2020@chainfaas,  
+author={S. {Ghaemi} and H. {Khazaei} and P. {Musilek}},  
+journal={IEEE Access},  
+title={ChainFaaS: An Open Blockchain-based Serverless Platform},   
+year={2020},  
+volume={8},  
+number={},  
+pages={131760-131778},
+}
+```
+Or the following plain text:
+
+S. Ghaemi, H. Khazaei and P. Musilek, "ChainFaaS: An Open Blockchain-Based Serverless Platform," in IEEE Access, vol. 8, pp. 131760-131778, 2020, doi: 10.1109/ACCESS.2020.3010119.
